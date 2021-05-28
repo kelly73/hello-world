@@ -1,3 +1,3 @@
 # hello-world
 intro repository
-sample reopsitory setup for edx cs50
+sample repository setup for edx cs50
